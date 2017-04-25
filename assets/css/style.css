@@ -121,7 +121,7 @@ section, aside {
 }
 
 section p {
-	line-height: 190%;
+	line-height: 170%;
 }
 
 #section_grey_line {
@@ -258,4 +258,4 @@ input[type=submit]:hover {
 
 textarea {
 	height: 198px;
-
+}
